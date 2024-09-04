@@ -1,2 +1,2 @@
-# l-gica-python
+# lógica com python
 repositório de estudos de lógica com python
